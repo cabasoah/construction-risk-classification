@@ -1,0 +1,10 @@
+# IDE and Jupyter
+.idea/
+.ipynb_checkpoints/
+
+# Python
+.venv/
+__pycache__/
+
+# Written by construction_delays.ipynb when run; not used by the model
+clean_construction_data.csv

@@ -82,8 +82,8 @@ Next steps:
 Tested with Python 3.14.0.
 
 ```bash
-git clone https://github.com/cabasoah/Predicting-Construction-Delay.git
-cd Predicting-Construction-Delay
+git clone https://github.com/cabasoah/construction-risk-classification.git
+cd construction-risk-classification
 python -m venv .venv
 .venv\Scripts\activate          # Windows; use: source .venv/bin/activate on macOS/Linux
 pip install -r requirements.txt
